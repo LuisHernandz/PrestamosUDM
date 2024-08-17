@@ -1,0 +1,12 @@
+
+.pro-sidebar-logo > div{
+    background-color: transparent;
+}
+
+.pro-sidebar-logo img{
+    width: 50px;
+}
+
+.pro-sidebar-text a{
+    color: #fff;
+}

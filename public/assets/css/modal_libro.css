@@ -1,0 +1,40 @@
+.modal .modal-dialog{
+    max-width: 600px;
+}
+
+.image_container{
+    float: left;
+    min-width: 100px;
+    width: 100px;
+    margin: 0 10px 0 0;
+}
+
+.image_container img{
+    width: 100%;
+    object-fit: contain;
+}
+
+.text_container .lib_titulo{
+    font-weight: 500;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.text_container .lib_descripcion{
+    line-height: 1.2rem;
+    text-align: justify;
+}
+
+.clear{
+    clear: both;
+}
+
+.modal-body_main > div{
+    display: flex;
+    margin-top: 1rem;
+}
+
+.modal-body_main > div label{
+    font-weight: 500;
+    margin-right: 5px;
+}

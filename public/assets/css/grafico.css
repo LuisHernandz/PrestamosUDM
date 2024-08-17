@@ -1,0 +1,22 @@
+#loginChart{
+    width: 100%;
+    max-height: 350px;
+}
+
+.btn-update{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.btn-update button{
+    border: none;
+    outline: none;
+    background-color: #d3ebec;
+    border: 1px solid #a0dadc;
+    height:30.4px;
+    color: #444;
+    padding: 0 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
